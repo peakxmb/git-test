@@ -1,2 +1,5 @@
 first meger
+<<<<<<< HEAD
 master
+=======
+>>>>>>> dev
